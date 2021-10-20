@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Functional Medicine",
+        "price": "2000 BDT",
+        "description": "Functional medicine blends traditional medicine with what may be considered and coordinate care",
+        "img": "https://www.aivahthemes.com/wp/labora/wp-content/uploads/sites/13/2016/12/diabetes-528678_1280_min-350x220.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Surgical Services",
+        "price": "1800 BDT",
+        "description": "The new surgical services department has private pre-op rooms, two state-of-the-art and coordinate care ",
+        "img": "https://www.aivahthemes.com/wp/labora/wp-content/uploads/sites/13/2016/12/surgical-instruments-81489_1280_min-350x220.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Emergency Care",
+        "price": "2200 BDT",
+        "description": "Our emergency department nurses will assess, care for, and coordinate care may be considered",
+        "img": "https://www.aivahthemes.com/wp/labora/wp-content/uploads/sites/13/2016/12/medical-emergency-1057706_1280_min-350x220.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Gastroenterology",
+        "price": "1500 BDT",
+        "description": "Etiam bibendum leo a tortor rhoncus hendrerit. Class aptent taciti sociosqu ad litora",
+        "img": "https://www.aivahthemes.com/wp/labora/wp-content/uploads/sites/13/2016/12/measurement-1698856_1280_min-350x220.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Integrative Health Services",
+        "price": "1650 BDT",
+        "description": "Integrative health is a holistic approach to healthcare that focuses on the mind, body,and coordinate care",
+        "img": "https://www.aivahthemes.com/wp/labora/wp-content/uploads/sites/13/2016/12/medic-563423_1280_min-350x220.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Ophthalmology",
+        "price": "2100 BDT",
+        "description": "Etiam bibendum leo a tortor rhoncus hendrerit. Class aptent taciti sociosqu ad litora",
+        "img": "https://www.aivahthemes.com/wp/labora/wp-content/uploads/sites/13/2016/12/medic-563425_1280_min-350x220.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Human papilloma virus detection and genotyping",
+        "price": "7350 BDT",
+        "description": "Human papilloma virus detection and genotyping",
+        "img": "http://labservices.icddrb.org/files/images/news/7/hpv-virus.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Detecion of MTB/RIF by GeneXpert ",
+        "price": "9000 BDT",
+        "description": "Detecion of MTB/RIF by GeneXpert (Semi quantative)",
+        "img": "http://labservices.icddrb.org/files/images/news/6/newtestnonspecific.jpg"
+    },
+    {
+        "id": 9,
+        "name": "NGS based Bacterial profile by 16S Metagenomics (Urine)",
+        "price": "1200 BDT",
+        "description": "NGS based Bacterial profile by 16S (Urine ,CSF, Stool, Pus, Evironmental)",
+        "img": "http://labservices.icddrb.org/files/images/news/5/16s.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Herpes Simplex Virus (HSV-1/2) Viral load ",
+        "price": "7900 BDT",
+        "description": "Herpes Simplex Virus (HSV-1/2) Viral load (Blood)",
+        "img": "http://labservices.icddrb.org/files/images/news/4/hsv.jpg"
+    }
+]
